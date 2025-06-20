@@ -1,15 +1,17 @@
-# 構成的時間非可逆跳躍理論
+# Constructive Theory of Temporally Irreversible Jumps  
+構成時間非可逆躍跳理論
 
-このリポジトリは、時間の非可逆的跳躍に関する構成的理論を提示するものです。  
-本理論では、連続的な時間進行とは異なる非可逆的なジャンプ現象を記述し、  
-その理論的基盤として構成的因果性・メタ安定状態・時間的非対称性を採用します。
+## Overview  
+This repository proposes a constructive theory concerning temporally irreversible jumps.  
+本リポジトリは、時間の非可逆的ジャンプ躍に関する構成的な理論を提案するものです。
 
-## 主な特性
+## Key Features / 主な特徴
+- Formalization of temporal irreversibility in constructive jumps  
+  構成的時間跳躍における非可逆性の形式化  
+- Transition modeling from meta-stable states  
+  メタ安定状態からのジャンプ遷移の記述  
+- Constructive escape conditions from reversible systems  
+  可逆系からの逸脱条件の構成的定義  
 
-- 時間跳躍における構成的非可逆性の定式化  
-- メタ安定状態からの跳躍遷移の記述  
-- 可逆系からの逸脱条件の構成的定義
-
-## ライセンス
-
+## License  
 Apache License 2.0
